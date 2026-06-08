@@ -49,7 +49,9 @@ A thesis project that automates the checking of multiple-choice examinations thr
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arrel-Web&show_icons=true&theme=tokyonight&cache_seconds=86400&v=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arrel-Web&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arrel-Web&layout=compact&theme=tokyonight)
 
 ---
 
