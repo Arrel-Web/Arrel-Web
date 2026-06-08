@@ -39,17 +39,27 @@ I enjoy building software solutions that solve real-world problems and improve u
 
 ## Featured Projects
 
-### 📚 ROSEC Exam Management System
+# 📚 ROSEC Exam Management System
 
-A web-based examination management platform developed to support an Automated OMR Checking System. The application enables administrators and teachers to manage students, subjects, examinations, and results through a role-based access system using Firebase Authentication and Firestore.
+ROSEC is a web-based examination management platform developed to support an Automated OMR Checking System. The application enables administrators and teachers to manage students, teachers, classes, academic periods, examinations, and exam results through a secure role-based access system powered by Firebase Authentication and Firestore.
 
-#### Key Features
-- User Authentication and Authorization
-- Role-Based Access Control
-- Student and Subject Management
-- Examination Management
-- Automated Result Processing
-- Real-Time Data Storage with Firebase Firestore
+Designed as the management platform for our thesis project, ROSEC streamlines the examination workflow by providing answer sheet generation, automated result processing, analytics, and centralized academic record management. The system helps reduce manual work, improve accuracy, and provide faster access to examination data and performance insights.
+
+## Key Features
+
+* User Authentication and Authorization
+* Role-Based Access Control
+* Student Management
+* Teacher Management
+* Class and Section Management
+* Academic Period Management
+* Examination Management
+* Answer Sheet Generation
+* Automated OMR Result Processing
+* Exam Result Management
+* Analytics and Performance Reporting
+* Real-Time Data Storage with Firebase Firestore
+
 
 #### Technologies Used
 - JavaScript
