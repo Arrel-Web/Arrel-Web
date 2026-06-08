@@ -87,7 +87,9 @@ A web-based examination management platform developed to support an Automated OM
 
 📄 Answer Sheet Maker
 <img width="1883" height="907" alt="image" src="https://github.com/user-attachments/assets/05878a62-246d-4d70-9e4a-2a61ccfa269f" />
-<img width="1872" height="903" alt="image" src="https://github.com/user-attachments/assets/6b164b31-bdfa-4a29-a7cd-bbc87359c2b0" />
+<img width="1880" height="905" alt="image" src="https://github.com/user-attachments/assets/1998bd59-45a8-44f7-84d2-063adcb0bc3d" />
+
+
 
 🔗 Live Demo: https://your-project.web.app
 
